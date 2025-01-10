@@ -1,0 +1,148 @@
+.everythingDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    background-color: #07081A;
+    padding-bottom: 64px;
+}
+
+.navDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 667px;
+    padding: 28px 200px 0px 200px;
+    align-items: flex-end;
+    border-bottom: 1px solid #261C51;
+}
+
+#navLogo {
+    width: 99px;
+    height: 36px;
+}
+
+.aDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.twoDivIn {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    align-items: center;
+}
+
+
+.firstDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 1040px;
+    justify-content: space-between;
+}
+
+h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.secondDiv {
+    display: flex;
+    flex-direction: row;
+    padding: 40px 72px;
+    width: 1040px;
+    justify-content: space-between;
+    background-color: #242642;
+    align-items: center;
+}
+
+.first400 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.second400 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.third400 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.pStyles {
+    font-size: 20px;
+    color: #C0C0C0;
+}
+
+.footerDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1040px;
+    align-items: center;
+}
+
+.footerLogo {
+    width: 99px;
+    height: 36px;
+}
+
+.footerLogoAndTextDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 264px;
+}
+
+.pStyles {
+    color: #C0C0C0;
+    font-size: 14px;
+}
+
+.footerNav {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.contactDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.whiteSpan {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.greenSpan {
+    color: #8CE900;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
